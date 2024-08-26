@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+table{
+    width: auto;
+    border-collapse: collapse;
+    margin: 30px 0;
+}
+th, td{
+    padding: 15px;
+    text-align: center;
+    border: 1px solid #ddd;
+}
+th{
+    background-color: #f4f4f4;
+}
+.tecnico{
+    background-color: rgb(146, 223, 79);
+}
+.linguagens{
+    background-color: rgb(215, 178, 215);
+}
+.ch{
+    background-color: rgb(223, 209, 116);
+}
+.pv{
+    background-color: rgb(113, 113, 246);
+}
+.mat{
+    background-color: rgb(208, 84, 84);
+}
+.cn{
+    background-color: rgb(159, 177, 209);
+}
+.inter{
+    background-color: #f4f4f4;
+    padding-bottom: 1px;
+    padding-top: 1px;
+}
